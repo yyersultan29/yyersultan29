@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yersultan</h1>
 <h3 align="center">A passionate frontend developer from Kazakhstan</h3>
-<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" align="right" alt="gif" />
+<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400" align="right" alt="gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yyersultan29&label=Profile%20views&color=0e75b6&style=flat" alt="yyersultan29" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
